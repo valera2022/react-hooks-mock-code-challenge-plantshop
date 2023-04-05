@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Geralmy",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gardeningknowhow.com%2Fwp-content%2Fuploads%2F2012%2F08%2FiStock-1158088999.jpg&f=1&nofb=1&ipt=7c9e85425050acae27e6d488f8b9d5850ad422085ca8e8e1870ad79932489f3d&ipo=images",
+      "price": "20",
+      "id": 10
+    },
+    {
+      "name": "uri",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-ZQCzWeO2Zdg%2FUz_QF1_AkRI%2FAAAAAAAAHf4%2FCQzlCM615DQ%2Fs1600%2FDarlingtonia_californica_-top%2B10-amazing-beautiful-carnivorous%2B-plants.JPG&f=1&nofb=1&ipt=1d6ff241b28e080c7e5c97a7ad5e6a3c972f2d1e85da0b800c7f912392996e3c&ipo=images",
+      "price": "23",
+      "id": 11
+    },
+    {
+      "name": "milk",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-ZQCzWeO2Zdg%2FUz_QF1_AkRI%2FAAAAAAAAHf4%2FCQzlCM615DQ%2Fs1600%2FDarlingtonia_californica_-top%2B10-amazing-beautiful-carnivorous%2B-plants.JPG&f=1&nofb=1&ipt=1d6ff241b28e080c7e5c97a7ad5e6a3c972f2d1e85da0b800c7f912392996e3c&ipo=images",
+      "price": "34",
+      "id": 12
+    },
+    {
+      "name": "df",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gardeningknowhow.com%2Fwp-content%2Fuploads%2F2012%2F08%2FiStock-1158088999.jpg&f=1&nofb=1&ipt=7c9e85425050acae27e6d488f8b9d5850ad422085ca8e8e1870ad79932489f3d&ipo=images",
+      "price": "10",
+      "id": 13
+    },
+    {
+      "name": "whatplant",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thespruce.com%2Fthmb%2FIGnjRuOx1p7oqp59UYtgmITuncM%3D%2F3872x2571%2Ffilters%3Afill(auto%2C1)%2Fastilbe-superba-522184768-5b30260c8e1b6e0036731af6.jpg&f=1&nofb=1&ipt=3f83782eee4893aa86f1c927b84897bd55e503a72e1cbb4f423a58991d6e5c4f&ipo=images",
+      "price": "5",
+      "id": 14
+    },
+    {
+      "name": "sd",
+      "image": "http://3.bp.blogspot.com/-oyO9IZhcqMg/UCU5DYxLAXI/AAAAAAAABnk/OI2Bp1kHH9k/s1600/perennial+container.jpg",
+      "price": "34",
+      "id": 15
     }
   ]
 }
